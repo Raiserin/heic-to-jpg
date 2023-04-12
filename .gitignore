@@ -1,0 +1,18 @@
+# .gitignore
+
+# Node modules
+**/node_modules
+
+# Frontend build folder
+/frontend/build
+
+# Backend environment variables
+/backend/.env
+
+# Logs
+*.log
+
+# Editor and OS generated files
+*.swp
+*.swo
+.DS_Store
